@@ -54,7 +54,7 @@ class Customer extends Component{
         <p className="incentivusText-content">Anyone can highlight the problems but it takes skill, experience, teamwork and vision to deliver<br/>
           solutions that best meet both current and future customer requirements. We at Incentivus <br/>
           Solutions pride ourselves on having created a collaborative environment where our team feel<br/>
-          comfortable to share ideas whilst at all times being focused on the end user requirements</p>
+          comfortable to share ideas whilst at all times being focused on the end user requirements.</p>
           <div className="incentivus-contents">About Us</div>
           <div className="abouts-content">
             <div className='row display'>
